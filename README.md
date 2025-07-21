@@ -2,7 +2,7 @@
 
 In this project, I analyzed a dataset of email communications to extract meaningful insights using Python and data visualization techniques. The goal was to understand communication patterns, key topics, and temporal trends within the email data.
 
-## 📌 Steps Taken
+## Steps Taken
 
 - Cleaned and preprocessed the raw email data
 - Conducted exploratory data analysis (EDA)
@@ -11,17 +11,17 @@ In this project, I analyzed a dataset of email communications to extract meaning
   - Time-series plots for email volume over time
 - Used Python libraries: `pandas`, `matplotlib`, `seaborn`, `wordcloud`
 
-## 🔍 Key Findings
+## Key Findings
 
 - Identified most active senders and frequent keywords
 - Discovered spikes in email activity on specific dates
 - Communicated insights through clear visualizations
 
-## 💡 Benefits
+## Benefits
 
 This project shows the ability to work with real-world text data and extract valuable insights using Python. The same approach can be applied to other communication datasets for strategic improvements.
 
-## ✅ Requirements
+## Requirements
 
 Install with:
 
